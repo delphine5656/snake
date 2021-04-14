@@ -1,0 +1,30 @@
+
+
+body{
+    background-image: radial-gradient(circle at center right, rgb(240, 101, 23),rgb(242, 194, 28));
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img{
+    display: flex;
+    width: 250px;
+    height: 250px;
+    align-self: flex-end;
+    margin-left: 5%;
+}
+
+#affichage{
+    height: 50px;
+    padding-left: 10px;
+}
